@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep Learning projects or demos are provided here.
+Personal deep learning projects or demos are provided here.
