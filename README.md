@@ -1,6 +1,6 @@
 # Deep-Learning
 Personal deep learning projects or demos are provided here.
-![cover](https://github.com/MikeGoblin/Deep-Learning/blob/main/cover.png?raw=true)
+<img src="https://github.com/MikeGoblin/Deep-Learning/blob/main/cover.png?raw=true" alt="cover" style="zoom: 40%;" />
 
 ## Index
 1. KDE2D: 2D Kernel Density Estimation with PyTorch, featured in 2D support, learnable bandwidth and visualization functionality. It is mainly applied in spatio-temporal series.
