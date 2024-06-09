@@ -24,12 +24,12 @@ $$u(1,y) = e^{-y}$$
 
 Figure of ***PINN Predictions*** is shown below.
 
-![image](https://user-images.githubusercontent.com/62187390/136612467-68324140-f9e9-4587-8587-60086254120d.png)
+![image](https://github.com/MikeGoblin/Deep-Learning/blob/main/PINN/Figures/PINN_Prediction.png?raw=true)
 
 Figure of ***Real Solution*** is shown below.
 
-![image](https://user-images.githubusercontent.com/62187390/136612531-7d971589-4465-4702-8637-183492188222.png)
+![image](https://github.com/MikeGoblin/Deep-Learning/blob/main/PINN/Figures/Real_Solution.png?raw=true)
 
 And the figure of ***Error*** is shown below.
 
-![image](https://user-images.githubusercontent.com/62187390/136612531-7d971589-4465-4702-8637-183492188222.png)
+![image](https://github.com/MikeGoblin/Deep-Learning/blob/main/PINN/Figures/Error.png?raw=true)
